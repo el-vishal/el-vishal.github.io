@@ -149,7 +149,7 @@ Commom elements
 	padding: 22px 35px;
 	border-radius: 50px;
 	text-transform: uppercase;
-	background: #f46e00;
+	background: #f58123;
 	color: #fff;
 	line-height: normal;
 	cursor: pointer;
@@ -188,7 +188,7 @@ Commom elements
 }
 
 .accordion-area .panel-header .panel-link.active {
-	background: #f46e00;
+	background: #f58123;
 	color: #fff;
 }
 
@@ -253,7 +253,7 @@ Commom elements
 }
 
 .tab-element .nav-tabs .nav-link.active {
-	background: #f46e00;
+	background: #f58123;
 	color: #fff;
 }
 
@@ -307,7 +307,7 @@ Commom elements
 .milestone-icon {
 	float: left;
 	font-size: 62px;
-	color: #f46e00;
+	color: #f58123;
 	width: 75px;
 }
 
@@ -343,8 +343,8 @@ Commom elements
 	-ms-flex-pack: center;
 	justify-content: center;
 	font-size: 39px;
-	color: #f46e00;
-	/*border: 3px solid #f46e00;*/
+	color: #f58123;
+	/*border: 3px solid #f58123;*/
 	border-radius: 50%;
 	float: left;
 	margin-right: 20px;
@@ -362,7 +362,7 @@ Commom elements
 }
 
 .icon-box-item:hover .ib-icon {
-	background: #f46e00;
+	background: #f58123;
 	color: #fff;
 }
 
@@ -475,7 +475,7 @@ Header section
 
 .main-menu li a:hover,
 .main-menu li a.active {
-	color: #f46e00;
+	color: #f58123;
 }
 
 .main-menu li:hover>.sub-menu {
@@ -515,7 +515,7 @@ Header section
 }
 
 .main-menu .sub-menu li a:hover {
-	color: #f46e00;
+	color: #f58123;
 }
 
 .header-right {
@@ -542,7 +542,7 @@ Header section
 	left: 12px;
 	display: inline-block;
 	text-align: center;
-	background: #f46e00;
+	background: #f58123;
 	border-radius: 50%;
 	font-size: 16px;
 	font-weight: 300;
@@ -551,7 +551,7 @@ Header section
 }
 
 .header-right .hr-btn.hr-btn-2 {
-	background: #f46e00;
+	background: #f58123;
 	padding: 36px 20px;
 	min-width: 236px;
 	text-align: center;
@@ -613,7 +613,7 @@ Hero section
 }
 
 .hero-slider .owl-dots .owl-dot.active {
-	background: #f46e00;
+	background: #f58123;
 }
 
 .hs-text {
@@ -673,7 +673,7 @@ CTA section
 
 .cta-section h2 strong {
 	font-weight: 900;
-	color: #f46e00;
+	color: #f58123;
 }
 
 .cta-section h5 {
@@ -707,7 +707,7 @@ Feature section
 
 .readmore {
 	font-size: 16px;
-	color: #f46e00;
+	color: #f58123;
 	font-weight: 900;
 }
 
@@ -783,7 +783,7 @@ Info section
 .info-text ul li {
 	font-size: 30px;
 	font-weight: 700;
-	color: #f46e00;
+	color: #f58123;
 	margin-bottom: 10px;
 }
 
@@ -860,7 +860,7 @@ Footer section
 }
 
 .copyright i {
-	color: #f46e00;
+	color: #f58123;
 }
 
 .copyright a {
@@ -868,7 +868,7 @@ Footer section
 }
 
 .copyright a:hover {
-	color: #f46e00;
+	color: #f58123;
 }
 
 /* ----------------
@@ -938,7 +938,7 @@ About Page
 
 .review-item h6 {
 	font-weight: 700;
-	color: #f46e00;
+	color: #f58123;
 }
 
 .review-item h6 span {
@@ -1114,7 +1114,7 @@ Loans Page
 	padding-top: 10px;
 	border-radius: 80px;
 	text-align: center;
-	background: #f46e00;
+	background: #f58123;
 }
 
 .ui-slider .ui-slider-handle:focus {
@@ -1211,7 +1211,7 @@ Blog Page
 	border-radius: 40px;
 	text-transform: uppercase;
 	color: #fff;
-	background: #f46e00;
+	background: #f58123;
 }
 
 .blog-title {
@@ -1261,7 +1261,7 @@ Blog Page
 }
 
 .site-pagination a.active {
-	color: #f46e00;
+	color: #f58123;
 }
 
 .sb-widget {
@@ -1299,7 +1299,7 @@ Blog Page
 	padding-left: 24px;
 	padding-right: 59px;
 	border: none;
-	border-bottom: 2px solid #f46e00;
+	border-bottom: 2px solid #f58123;
 	background: #ebf0f3;
 }
 
@@ -1327,7 +1327,7 @@ Blog Page
 }
 
 .sb-widget .tags a:hover {
-	background: #f46e00;
+	background: #f58123;
 	color: #fff;
 }
 
@@ -1361,7 +1361,7 @@ Contact Page
 
 .contact-text ul li i {
 	font-size: 29px;
-	color: #f46e00;
+	color: #f58123;
 	display: inline-block;
 	width: 41px;
 	position: relative;
@@ -1383,8 +1383,8 @@ Contact Page
 }
 
 .social-links a:hover {
-	color: #f46e00;
-	border-color: #f46e00;
+	color: #f58123;
+	border-color: #f58123;
 }
 
 .contact-form {
@@ -1533,7 +1533,7 @@ Contact Page
 		border-bottom: 1px solid #111;
 	}
 	.slicknav_nav a:hover {
-		color: #f46e00;
+		color: #f58123;
 		border-radius: 0;
 		background: #0b0e25;
 	}
@@ -1547,7 +1547,7 @@ Contact Page
 	}
 	.slicknav_parent:hover {
 		background: #22242b;
-		color: #f46e00;
+		color: #f58123;
 	}
 	.header-right {
 		display: none;
@@ -1625,7 +1625,7 @@ input[type=text], select, textarea {
 
 /* Style the submit button with a specific background color etc */
 input[type=submit] {
-  background-color: #f46e00;
+  background-color: #f58123;
   color: white;
   padding: 12px 20px;
   border: none;
