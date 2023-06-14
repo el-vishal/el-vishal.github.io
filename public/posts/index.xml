@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on billaDee Blog</title>
+    <link>http://el-vishal.github.io/blog/posts/</link>
+    <description>Recent content in Posts on billaDee Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 14 Jun 2023 20:34:47 +0100</lastBuildDate><atom:link href="http://el-vishal.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>http://el-vishal.github.io/blog/posts/first/</link>
+      <pubDate>Wed, 14 Jun 2023 20:34:47 +0100</pubDate>
+      
+      <guid>http://el-vishal.github.io/blog/posts/first/</guid>
+      <description>First post</description>
+    </item>
+    
+  </channel>
+</rss>
