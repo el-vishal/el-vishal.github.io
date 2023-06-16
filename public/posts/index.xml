@@ -6,7 +6,19 @@
     <description>Recent content in Posts on billaDee Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 14 Jun 2023 20:34:47 +0100</lastBuildDate><atom:link href="https://el-vishal.github.io/public/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Jun 2023 15:24:10 +0100</lastBuildDate><atom:link href="https://el-vishal.github.io/public/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alpine Linux &#43; XFCE &#43; Remmina</title>
+      <link>https://el-vishal.github.io/public/posts/alpine_xfce_remmina/</link>
+      <pubDate>Fri, 16 Jun 2023 15:24:10 +0100</pubDate>
+      
+      <guid>https://el-vishal.github.io/public/posts/alpine_xfce_remmina/</guid>
+      <description>Why? I wanted to remote desktop my home machine through a low spec VM (via zerotier). The best way I was able to achieve it was using Alpine Linux with XFCE and Remmina
+Steps Step 1: Download Alpine Whatever way to you are happy with - https://www.alpinelinux.org/
+Step 2: Install XFCE https://wiki.alpinelinux.org/wiki/Xfce
+Step 3: Install Remmina (and FreeRDP - dependencies) apk add remmina apk add freerdp Step 4: Enjoy </description>
+    </item>
+    
     <item>
       <title>First</title>
       <link>https://el-vishal.github.io/public/posts/first/</link>
